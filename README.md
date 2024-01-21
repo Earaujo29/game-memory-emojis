@@ -15,5 +15,5 @@
 <li>Será avisado quais são as regras</li>
 </ol>
 
-### Céditos
+### Créditos
 Divirta-se!! 😁
